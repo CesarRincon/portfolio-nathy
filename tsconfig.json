@@ -28,6 +28,6 @@
     "**/*.tsx",
     ".next/types/**/*.ts",
     "src/app/components/Header/ButtonToggle.jsx"
-  ],
+, "src/app/page.jsx"  ],
   "exclude": ["node_modules"]
 }
